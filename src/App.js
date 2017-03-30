@@ -11,6 +11,7 @@ class App extends Component {
           <h2>Welcome to My first React App on Heroku</h2>
         </div>
         <p className="App-intro">
+	  Hi from Mars, Ola Ola. <br/>
           To get started, edit <code>src/App.js</code> and save to reload.
         </p>
       </div>
